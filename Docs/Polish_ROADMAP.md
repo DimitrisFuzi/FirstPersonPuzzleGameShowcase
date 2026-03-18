@@ -18,7 +18,7 @@
 
 ## **4. Sound Design**
 - [ok] Add SFX for main actions: interact, pickup, light switch, puzzle solve
-- [ ] Add ambient background audio loop (room tone/hallway)
+- [ok] Add ambient background audio loop (room tone/hallway)
 - [ok] Add walking SFX if trivial, else skip for now
 
 ## **5. Cinematic Onboarding**
