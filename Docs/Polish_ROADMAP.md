@@ -17,9 +17,9 @@
 - [ok] Add one additional pickable (optional)
 
 ## **4. Sound Design**
-- [ ] Add SFX for main actions: interact, pickup, light switch, puzzle solve
+- [ok] Add SFX for main actions: interact, pickup, light switch, puzzle solve
 - [ ] Add ambient background audio loop (room tone/hallway)
-- [ ] Add walking SFX if trivial, else skip for now
+- [ok] Add walking SFX if trivial, else skip for now
 
 ## **5. Cinematic Onboarding**
 - [ ] Create simple opening sequence with player “waking up,” camera pan, fade in to player control (Unreal Sequencer)
