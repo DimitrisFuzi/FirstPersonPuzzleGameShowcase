@@ -18,15 +18,15 @@
 
 ## **4. Sound Design**
 - [ok] Add SFX for main actions: interact, pickup, light switch, puzzle solve
-- [ ] Add ambient background audio loop (room tone/hallway)
+- [ok] Add ambient background audio loop (room tone/hallway)
 - [ok] Add walking SFX if trivial, else skip for now
 
 ## **5. Cinematic Onboarding**
 - [ ] Create simple opening sequence with player “waking up,” camera pan, fade in to player control (Unreal Sequencer)
 
 ## **6. Main Menu Implementation**
-- [ ] Basic menu: Start, Quit, (optional: simple settings)
-- [ ] Hook to correct map/game start, clear UI state
+- [ok] Basic menu: Start, Quit, (optional: simple settings)
+- [ok] Hook to correct map/game start, clear UI state
 
 ## **7. End Sequence/Level Expansion**
 - [ ] Duplicate bedroom at end of hallway, flip/rotate for “upside down” effect
