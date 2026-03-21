@@ -29,12 +29,12 @@
 - [ok] Hook to correct map/game start, clear UI state
 
 ## **7. End Sequence/Level Expansion**
-- [ ] Duplicate bedroom at end of hallway, flip/rotate for “upside down” effect
-- [ ] Trigger ending flow: player enters, fade or cinematic, show “game complete” or credits
+- [ok] Duplicate bedroom at end of hallway, flip/rotate for “upside down” effect
+- [ok] Trigger ending flow: player enters, fade or cinematic, show “game complete” or credits
 
 ## **8. Final QA & Polishing**
-- [ ] Bugfix: softlocks, input bleed, missing feedback
-- [ ] Art pass: ensure nothing breaks the intended aesthetic
+- [ok] Bugfix: softlocks, input bleed, missing feedback
+- [ok] Art pass: ensure nothing breaks the intended aesthetic
 - [ ] README/portfolio updates—document architecture, blind spots covered
 
 ## **9. Build & Demo Preparation**
