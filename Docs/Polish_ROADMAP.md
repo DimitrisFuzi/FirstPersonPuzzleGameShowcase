@@ -22,7 +22,7 @@
 - [ok] Add walking SFX if trivial, else skip for now
 
 ## **5. Cinematic Onboarding**
-- [ ] Create simple opening sequence with player “waking up,” camera pan, fade in to player control (Unreal Sequencer)
+- [ok] Create simple opening sequence with player “waking up,” camera pan, fade in to player control (Unreal Sequencer)
 
 ## **6. Main Menu Implementation**
 - [ok] Basic menu: Start, Quit, (optional: simple settings)
