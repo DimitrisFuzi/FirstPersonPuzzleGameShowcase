@@ -53,7 +53,7 @@ The core puzzle is to find a wall shadow that suggests **21:12**, then input **0
 - **Reset position**: Right Mouse Button  
 
 ## Build / download
-- Download: **Coming soon** (itch.io build not published yet)
+- Download: https://github.com/DimitrisFuzi/FirstPersonPuzzleGameShowcase/releases/download/v1.0.0/FirstPersonPuzzleGameShowcase_Windows_v1.0.0.zip
 - Platform: Windows
 - Tested on: Windows 10 Pro
 
