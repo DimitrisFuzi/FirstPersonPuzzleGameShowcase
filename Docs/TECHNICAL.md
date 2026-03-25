@@ -28,7 +28,7 @@
 - If the hit actor implements `BPI_Interactable`, the character calls `Interact` and passes itself as instigator.
 
 **Figure 1 — Player trace + interface call**
-![](Images/interaction_character_linetrace.png)
+![](Images/interaction_character_linetrace.PNG)
 
 ### 1.2 Item-side dispatch (`BP_MasterItem` + `BPI_Interactable`)
 **Goal:** Centralize shared interaction logic while still allowing per-item unique behavior.
