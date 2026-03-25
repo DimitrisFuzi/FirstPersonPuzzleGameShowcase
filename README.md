@@ -40,17 +40,21 @@ The core puzzle is to find a wall shadow that suggests **21:12**, then input **0
 - **Mouse**: Look  
 - **[E]**: Interact  
 - **[Esc]**: Game menu  
-- **Inspect mode**: rotate/zoom + exit via **[key here]** (document your actual bindings)
+- **Inspect mode**: rotate/zoom + exit *(document your actual exit keybind here)*
 
 ## Build / download
-- Download: **[itch.io link here]**
+- Download: **[itch.io link — add after publishing]**
 - Platform: Windows
-- Tested on: **[your Windows version + GPU/CPU if you want]**
+- Tested on: **[fill in Windows version + GPU/CPU after QA]**
 
 ## Known issues / limitations
-- **[Add 5–10 bullets here]** (example: “No save system”, “No subtitles”, “Some UI prompts are placeholder”, etc.)
+- *Complete after QA — see [Phase 1 in ROADMAP](Docs/ROADMAP.md)*
 
 ## What I would improve next
 - Replace `EInteractionType` enum routing with a more **data-driven action system** (e.g., per-item “action strategy” objects or gameplay tags) to scale without editing central switch logic.
 - Add clearer **gameplay state management** (Menu / Inspect / Gameplay) via a small state machine to prevent input conflicts.
 - Add a small C++ layer in a future project (e.g., interaction component + inventory core) for AA-style workflows.
+
+## Docs
+- [Docs/TECHNICAL.md](Docs/TECHNICAL.md) — architecture overview, system breakdowns, diagrams
+- [Docs/ROADMAP.md](Docs/ROADMAP.md) — portfolio packaging progress tracker
