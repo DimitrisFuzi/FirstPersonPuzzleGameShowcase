@@ -46,6 +46,7 @@
 ![](Images/interaction_masteritem_switch.PNG)
 
 **Figure 3 — Per-instance configuration in editor**
+
 ![](Images/interaction_instance_details.PNG)
 
 #### Extending the system (adding a new interactable)
