@@ -43,10 +43,10 @@
 **Example:** the clock uses **Use** to open `WBP_ClockInput` and validate the entered code.
 
 **Figure 2 — Dispatch by `EInteractionType`**
-![](Images/interaction_masteritem_switch.png)
+![](Images/interaction_masteritem_switch.PNG)
 
 **Figure 3 — Per-instance configuration in editor**
-![](Images/interaction_instance_details.png)
+![](Images/interaction_instance_details.PNG)
 
 #### Extending the system (adding a new interactable)
 1. Create a child Blueprint of `BP_MasterItem`
@@ -90,7 +90,7 @@ This keeps the UI consistent with gameplay state, and the layout automatically s
 **When it updates:** `WBP_InventoryHUD` calls `UpdateItemGrid` on `Event Construct`, rebuilding the grid when the inventory UI is created/opened.
 
 **Figure 4 — Inventory grid rebuild (Wrap Box + create slot per item)**
-![](Images/inventory_ui_grid_rebuild.png)
+![](Images/inventory_ui_grid_rebuild.PNG)
 
 ---
 
@@ -107,10 +107,10 @@ This keeps the UI consistent with gameplay state, and the layout automatically s
 - The widget displays the capture output.
 
 **Figure 5 — Inspect lifecycle (start/end)**
-![](Images/inspect_start_and_end.png)
+![](Images/inspect_start_and_end.PNG)
 
 **Figure 6 — Inspect controls logic (rotate/zoom/reset)**
-![](Images/inspect_controls_rotation_zoom.png)
+![](Images/inspect_controls_rotation_zoom.PNG)
 
 ---
 
