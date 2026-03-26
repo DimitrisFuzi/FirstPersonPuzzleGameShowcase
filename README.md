@@ -69,4 +69,4 @@ The core puzzle is to find a wall shadow that suggests **21:12**, then input **0
 - Add a small C++ layer in a future project (e.g., interaction component + inventory core).
 
 ## Links
-- Technical notes: `Docs/TECHNICAL.md`
+- Technical notes: [Docs/TECHNICAL.md](Docs/TECHNICAL.md)
